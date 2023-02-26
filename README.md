@@ -2,4 +2,4 @@
 
 * automate scraping of all items under every subcategories of any category of a website
 * output in csv ,json, etc
-* future: add concurrency for speed imporvement
+* future: add concurrency for speed improvement
